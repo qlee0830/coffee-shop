@@ -1,1 +1,1 @@
-# NPM START to launch the project
+# npm start to start the project
