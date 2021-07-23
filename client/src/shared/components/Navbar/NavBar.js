@@ -11,7 +11,7 @@ class NavBar extends Component {
                 <Navbar.Brand href="home">{BrandName}</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
-                    <Nav className="ml-auto">
+                    <Nav className="ms-auto">
                         {MenuItems.map(item => {
                             return (
                                 <NavLink href={item.url} key = {item.title}>{item.title}</NavLink>
