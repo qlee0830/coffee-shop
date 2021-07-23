@@ -1,30 +1,17 @@
 export const MenuItems = [
   {
-    title: "Coins",
-    url: "coins",
-  },
-  {
-    title: "Dex",
-    url: "dex",
-  },
-  {
-    title: "Market Place",
-    url: "marketplace",
-  },
-
-  {
-    title: "Tools",
-    url: "tools",
-  },
-
-  {
-    title: "About US",
+    title: "About Us",
     url: "about-us",
   },
-
   {
-    title: "Sign up",
-    url: "sign-up",
+    title: "Menu",
+    url: "menu",
   },
+  {
+    title: "Contact",
+    url: "contact",
+  }
+
+  
 ];
-export const BrandName = "BlockPhilio";
+export const BrandName = "Coffee Shop";
