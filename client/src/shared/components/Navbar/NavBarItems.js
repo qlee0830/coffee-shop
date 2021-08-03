@@ -1,4 +1,4 @@
-export const MenuItems = [
+export const NavBarItems = [
   {
     title: "About Us",
     url: "about-us",
